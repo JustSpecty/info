@@ -1,6 +1,5 @@
 # Specty
 
-
 - <img src="https://cdn.discordapp.com/emojis/831641224778874941.png?v=1" align="left" width="22px"> Currently working on [**Specty**](https://bots4.fun) cool multipurpose bot for [**discord**](https://discord.com)
 
 - <img src="https://cdn.discordapp.com/emojis/825478277362876418.png?v=1" align="left" width="22px">  We like music
